@@ -5,15 +5,15 @@
 .encabezado {
     background-color: #1572A1;
     color: white;
+    font-size: 20pt;
     text-align: right;
-    padding: 50px;
+    padding: 30px;
     float: up;
 }
 header {
     background-image: url(../img/logo.jpg);
     background-size: 40% 100%;
     background-repeat: no-repeat;
-    color: white;
     padding: 10px 10px;
 }
 #header{
@@ -67,4 +67,36 @@ ul, ol {
     padding: 30px;
     color: white;
     text-align: center;
+}
+.h1{
+    color: rgb(44, 27, 27);
+    margin: auto;
+    text-align: center;
+    font-size: 22pt;
+}
+.p1{
+    color: black;
+    text-align: justify;
+}
+.h4{
+    color: rgb(61, 2, 2);
+    margin: auto;
+    text-align: left;
+    font-size: 20pt;
+}
+.h5{
+    color: black;
+    margin: auto;
+    text-align: left;
+}
+.biblio{
+    text-align: subra;
+    text-decoration: underline;
+    font-size: 1vw;
+}
+.titu{
+    color: rgb(119, 0, 0);
+    margin: auto;
+    text-align: Center;
+    font-size: 20pt;
 }
